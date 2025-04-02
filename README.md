@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [1651-shuffle-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
