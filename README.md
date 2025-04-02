@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1651-shuffle-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1651-shuffle-string) |
+| [1894-merge-strings-alternately](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
