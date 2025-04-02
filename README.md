@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
