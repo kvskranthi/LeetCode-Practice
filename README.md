@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1651-shuffle-string) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## String
 |  |
 | ------- |
