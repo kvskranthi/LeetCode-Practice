@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
