@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
