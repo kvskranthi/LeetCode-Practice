@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1651-shuffle-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
