@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
