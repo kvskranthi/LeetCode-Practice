@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
