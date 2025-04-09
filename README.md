@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -75,10 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
