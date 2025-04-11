@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
