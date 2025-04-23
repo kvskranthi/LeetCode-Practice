@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
