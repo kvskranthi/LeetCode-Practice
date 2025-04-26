@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1319-unique-number-of-occurrences](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
@@ -102,9 +104,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
