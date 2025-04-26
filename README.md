@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1319-unique-number-of-occurrences](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1505-create-target-array-in-the-given-order) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kvskranthi/LeetCode-Practice/tree/master/1505-create-target-array-in-the-given-order) |
 ## Two Pointers
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/kvskranthi/LeetCode-Practice/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
